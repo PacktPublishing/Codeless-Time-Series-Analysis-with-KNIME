@@ -51,3 +51,7 @@ is a data scientist with KNIME in Austin, Texas. He studied mathematics at Michi
 
 **Daniele Tonini**
  is an experienced advisor and educator in the field of advanced business analytics and machine learning. In the last 15 years, he designed and deployed predictive analytics systems, and data quality management and dynamic reporting tools, mainly for customer intelligence, risk management, and pricing applications. He is an Academic Fellow at Bocconi University (Department of Decision Science) and SDA Bocconi School of Management (Decision Sciences & Business Analytics Faculty). Hes also Adjunct Professor in data mining at Franklin University, Switzerland. He currently teaches statistics, predictive analytics for data-driven decision making, big data and databases, market research, and data mining.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803232065">https://packt.link/free-ebook/9781803232065 </a> </p>
